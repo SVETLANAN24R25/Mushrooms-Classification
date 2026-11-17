@@ -1,0 +1,4 @@
+Mushrooms/
+*.pth
+saved_models/
+.ipynb_checkpoints/
